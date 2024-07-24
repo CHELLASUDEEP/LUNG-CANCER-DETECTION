@@ -13,3 +13,4 @@ In this project, we have trained multiple models using transfer learning techniq
 
 # ABOUT DATASET
 Dataset consists of 3 directories train,test,valid. Each directory has 3 types of lung cancer images folder and 1 normal lung images folder.
+Here is the dataset [link] (https://www.kaggle.com/code/yasserhessein/chest-cancer-classification-with-vvg16/input)
